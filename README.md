@@ -1,16 +1,14 @@
+# **Security Research & Write-ups by FearThePLOTO**
+
 <div align="center">
-
-**Security Research & Write-ups by FearThePLOTO**
-
+    
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
+
+
 ---
-
-## About
-
-A collection of in-depth cybersecurity write-ups covering reverse engineering, web security, binary exploitation, and more. Each write-up aims to be comprehensive, practical, and educational.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -26,39 +24,11 @@ A collection of in-depth cybersecurity write-ups covering reverse engineering, w
 ```
 Write-ups/
 │
-├── writeups/
-│   └── Reversing x86/              [AVAILABLE]
+├── Reverse-Engineering/
+│   └── Reversing x86/
 └── assets/                         Diagrams & images
 ```
 
----
-
-## New Writeups
-
-### Reversing x86
-
-**[x86/x64 Assembly Reversing Guide](./writeups/Reversing%20x86/)**
-
-Complete guide to x86/x64 assembly and reverse engineering fundamentals.
-
-```
-    Binary          Assembly        High-Level
-    ┌──────┐        ┌──────┐        ┌──────┐
-    │ 0110 │   →    │ mov  │   →    │ int  │
-    │ 1101 │        │ push │        │ main │
-    └──────┘        └──────┘        └──────┘
-```
-
----
-
-## Author
-
-```
-    ┌─────────────────────────────────────────────┐
-    │  > whoami                                   │
-    │  FearThePLOTO                               │
-    └─────────────────────────────────────────────┘
-```
 ---
 
 ## License
